@@ -26,7 +26,7 @@ Todo Main Page: You can add items, mark them as completed and delete your items.
 • Links:
 
 - Link to deployed version: 
-- Demo video:
+
 
  
 Screenshots:
