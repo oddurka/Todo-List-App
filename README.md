@@ -29,8 +29,11 @@ Todo Main Page: You can add items, mark them as completed and delete your items.
 
 
  
-Screenshots:
+- Screenshots:
 
+• Deployment:
+- You can download the source code from github and have react to be able to open it, keep in mind that you will need to call the css and Javascript in your JSX depending on the folder you saved the project
+- Use the Netifly link that will allow you to test the website
 
 • Technologies used:
 
