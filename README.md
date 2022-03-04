@@ -9,11 +9,6 @@ ________________________________________________________________
 • Overview: This is a modern website with login registration form, connected to firebase with the purpose of registering multi-users to get access to their Todo Lists.
 
 
-- Color Palette used:
-
-![image](https://user-images.githubusercontent.com/16030875/156666112-c93c1d00-d3e2-4111-96be-82923fe0ab64.png)
-
-
 Login Main Page: This is a salutation page with a brief description of the product, click on "Let's Get started" to continue to the main page.
 
 Login Page: There are 2 versions of this page, one for login and another one for user register where you will put your details with additional of responding a secret question for your registration.
@@ -28,11 +23,8 @@ Todo Main Page: You can add items, mark them as completed and delete your items.
 - Link to deployed version: https://todolist-2762f.web.app
 
 
- 
-- Screenshots:
-
 • Deployment:
-- You can download the source code from github and have react to be able to open it, keep in mind that you will need to call the css and Javascript in your JSX depending on the folder you saved the project
+- Go to the firebase website and choose hosting, make sure you have the firebase-tools node module installed if not then run `npm install -g firebase-tools` in a terminal or command propt. Initialize the project by signing in from a terminal or command propt using the `firebase login` command, once that is done use the `firebase init` command to start initializing the project, just follow that instructions on screen. Once that is done run the `npm run build` command to build the React project, when that is finished use `firebase deploy` to deploy the project, it will give you a hosting URL when finished.
 - Use the Firebase link that will allow you to test the website
 
 • Technologies used:
