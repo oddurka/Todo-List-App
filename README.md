@@ -25,7 +25,7 @@ Todo Main Page: You can add items, mark them as completed and delete your items.
 
 • Links:
 
-- Link to deployed version: 
+- Link to deployed version: https://todolist-2762f.web.app
 
 
  
